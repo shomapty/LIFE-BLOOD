@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "386986152886",
+    "project_id": "smuct-blood-donation-bd409",
+    "storage_bucket": "smuct-blood-donation-bd409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386986152886:android:542ceb01600d82a78d2717",
+        "android_client_info": {
+          "package_name": "com.example.smuctblooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386986152886-va1bi03id6j8q8bdmsdtrk3vhons96db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smuctblooddonation",
+            "certificate_hash": "27cbbf0f157536efc3491c1d3ca9c78f402aef75"
+          }
+        },
+        {
+          "client_id": "386986152886-rlp2jrp8n2fu2snd3krb9cg89in8abev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrRjgoNvFpC5DzptWuwKE2ZeLoZKtk5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386986152886-rlp2jrp8n2fu2snd3krb9cg89in8abev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386986152886-3c2lpogd55aaubn972q2e0n8icj5c896.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smuctblooddonation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
